@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+  - 홍익대학교 컴퓨터공학과 2017~2025 졸업
+  - 
+  - Unity(C#) 게임 개발
+  - UnrealEngine(C++) 공부중
+    
 <!--
 **aaab248/aaab248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
